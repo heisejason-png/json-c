@@ -412,5 +412,5 @@ A json_object tree can be serialized back into a string with
 is only valid until the next "to_json_string" call on that same object.
 Also, it is freed when the json_object is freed.
 
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
